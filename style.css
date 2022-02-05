@@ -163,7 +163,7 @@ p{
     background-color: #000;
     border-color: #000;
 }
-.btn:after{
+.btn:focus{
 	color: #ff1616;
 	background-color: #000;
 }
