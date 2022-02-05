@@ -114,6 +114,16 @@ h2:after{
 }
 p{
 	color: #000;
+	padding-left: 50px;
+	font-size: 17px;
+}
+.container ul li{
+	padding-left: 20px;
+	list-style: none;
+}
+.container ul li a{
+	color: #ff1616;
+	font-size: 15px;
 }
 .form-label{
 	color: #000;
@@ -152,6 +162,10 @@ p{
     color: #ff1616;
     background-color: #000;
     border-color: #000;
+}
+.btn:after{
+	color: #ff1616;
+	background-color: #000;
 }
 
 .field:focus{
