@@ -15,7 +15,7 @@
 }
 .hero1{
 	width: 100%;
-	min-height: 70vh;
+	min-height: 100vh;
 	background: #BCC6CC;
     background: linear-gradient(90deg, #BCC6CC 0%, #fff 100%);
 	padding-left: 8%;
@@ -111,6 +111,9 @@ h2:after{
     width: 50px;
     border-radius: 2px;
     background-color: #fff;
+}
+p{
+	color: #000;
 }
 .form-label{
 	color: #000;
